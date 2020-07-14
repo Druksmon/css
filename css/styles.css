@@ -1,0 +1,161 @@
+div {
+
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+    font-size: 6.625rem;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+
+}
+p {
+    line-height: 2;
+
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+
+}
+
+a {
+   color: #105541;
+    font-family: 'sans-serif';
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover {
+    color: #EAF6F6;
+}
+
+/******************************CLASS SELECTORS ************************/
+.top-container {
+background-color: #ecfcf3;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+
+.middle-container{
+    background-color: white;
+    margin: 100px 0;
+
+
+}
+
+
+.bottom-container {
+    background-color: #57bfb9;
+    padding: 20px;
+
+
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.cloud {
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.bottom-cloud {
+position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.Fotoprogramacion {
+    width: 20%;
+
+}
+ .montain {
+     height: 540px; width: 900px;
+ }
+ .skill-row  {
+     width: 50%;
+     margin: 100px auto 100px auto;
+     text-align: left;
+
+
+ }
+
+ .plantitu{
+     width: 25%;
+     float: left;
+     padding-right: 30px;
+ }
+.plantitur {
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+
+}
+
+.hellotext {
+    width: 30%;
+    margin: auto;
+}
+.final {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.myButton {
+    background:linear-gradient(to bottom, #5da699 5%, #3d9494 100%);
+    background-color:#5da699;
+    border-radius:14px;
+    border:1px solid #18ab29;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:'Montserrat', sans-serif;
+    font-size:18px;
+    padding:16px 31px;
+    text-decoration:none;
+    text-shadow:2px 0px 0px #2f6627;
+}
+.myButton:hover {
+    background:linear-gradient(to bottom, #3d9494 5%, #5da699 100%);
+    background-color:#3d9494;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+.copy {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
